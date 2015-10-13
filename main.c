@@ -11,6 +11,12 @@ main(int argc, char *argv[])
 	  printf("update\n"); 
 	
 	  printf("zhouyanjun:周延军\n"); 
+	  printf("zhouyanjun:周延军\n"); 
+	  printf("zhouyanjun:周延军\n"); 
+	  printf("zhouyanjun:周延军\n"); 
+	  printf("zhouyanjun:周延军\n"); 
+	  printf("zhouyanjun:周延军\n"); 
+	  printf("zhouyanjun:周延军\n"); 
 	}
 	return 0;
 }
