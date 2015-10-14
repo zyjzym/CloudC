@@ -1,8 +1,8 @@
-
+#include <stdio.h>
 int
 main(int argc, char *argv[])
 {
-	char mem[1024] = {0};
+	char mem[1034] = {0};
 	while(1)
 	{
 	  printf("update\n"); 
